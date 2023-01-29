@@ -4,7 +4,7 @@ library(ggplot2)
 library(reshape2)
 library(GGally)
 library(dplyr)
-file <- "C:/Users/Lenovo/OneDrive - Drexel University/Fall 2022/STAT-610/Group Project (Final)/RegressionData.csv"
+file <- "RegressionData.csv"
 ship_info <- read.csv(file) #Upload the data
 head(ship_info,5) #View the ship_info
 names(ship_info)
