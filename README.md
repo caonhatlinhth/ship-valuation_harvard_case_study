@@ -30,5 +30,3 @@ The project requires the following R packages:
 - tidyverse: For data manipulation and visualization.
 - caret: For regression model building and evaluation.
 - Other packages as specified in the project code.
-
-Feel free to customize the description as per your specific project details, phases, and repository structure.
