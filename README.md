@@ -1,7 +1,9 @@
 **Bet Performer Ship Valuation**
+
 This repository contains the code, report, and materials for the "Best Performership Evaluation Project" based on the Harvard Business Case. The project focuses on evaluating the performance of individuals within an organization using regression models and statistical analysis techniques implemented in R.
 
 **Project Background**
+
 Provides insight from data analysis that was conducted to estimate the optimal bidding price for capesize bulk carrier, the Bet Performer. Following examination of the available data and using a market valuation approach with the Cape Falcon vessel as reference, we have determined the optimal bidding price for the Bet Performer.
 
 In keeping with our price estimation, the current economic imbalance in the maritime industry with regards to the demand for ships and average charter rates puts our client in the best position to bid for the Bet Performer. However, it is important to remember to conduct a close inspection of the vessel to ensure that there is no sign of damage or malfunction as these could have significant impact on the ship’s price. By applying regression models and statistical analysis to a dataset provided in the Harvard Business Case, the project seeks to uncover insights and make data-driven recommendations for optimizing performership evaluation processes.
