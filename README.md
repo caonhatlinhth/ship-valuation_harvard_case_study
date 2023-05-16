@@ -1,6 +1,6 @@
 **Bet Performer Ship Valuation**
 
-This repository contains the code, report, and materials for the "Best Performership Evaluation Project" based on the Harvard Business Case. The project focuses on evaluating the performance of individuals within an organization using regression models and statistical analysis techniques implemented in R.
+This repository contains the code, report, and materials for the "Bet Performership Ship Valuation Project" based on the Harvard Business Case. The project focuses on evaluating the performance of individuals within an organization using regression models and statistical analysis techniques implemented in R.
 
 **Project Background**
 
